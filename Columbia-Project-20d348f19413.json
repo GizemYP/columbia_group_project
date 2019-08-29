@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "columbia-project-250815",
+  "private_key_id": "20d348f1941332249d5ccfa2eb17b26144cb863d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDK/+OMqgWPOySy\nq53AT3FvdSzqkIfI/m7WavbwKfVc0V6wm2Z2nyaw7naqrxyk7AdkLUCXVBTrtQRW\nkSFrcaCZdHpSG4Qb9ukT0UypXQBv2H/26FQhgvLMrY7MEn+Ht4XpQKSuqa7Wk2Wu\nRihPnhAcspGNkA1XJcdMTCMz0TUwmzzSN5GswAbAzxA00HuOTD62WXwFOb2hpeC7\nu+JHXsdRJGv99Zbn2HacF4D8r/IYLZR+xeq0iAlUe0s1m+zSxICjNY4Llsepptcz\n4SVSnQPovyvSaf3mQJs2lZKc4zjCq6sskkbUssrLrPPl9Q9yXHJLgVMscbT6mU69\nqZAEDe1RAgMBAAECggEACPipcB8CIzlZlC0yHzyjkRRxnrrdIAyL43KounvFjzY6\n5BKKGGCiOhw1Jwfu0SRpPeEjbfdWUVsXolJu/VZGjbbwbPkwVngMBvHaByYdYylY\nm8CFb1G1NJx6/MPYhQFJrBb3muHUNewfs0WrJGb3jqfJok2lI/PUd1JqFTEqvkdv\nKSUVQ/MCOH5EMuY0JMEEzTeFBcyVZiT3r9znCNhhZOJwkAk/G95oOgexfOwtbYP0\nbUm4mVldX91gFcR1YFvwkQ86aHRy2MTttbNNSWe9JqNUGQ0oZQAb6n0Vwd9ZlxFo\n3kVJe8TCfw8F0LAAeBW4HFFPLnlfBG4VLjXQ7Ha8/QKBgQD39ipoF0zJnTAMAY4r\ns+5m/xYHImbuphAZUtBYfMoZWDyamdN/OOL2eIqRNZO4+MIlemrBsxnRbVPr1rxk\no+DJfS+m8DFPg2b6gF2FEg5SRSaSNiBfEqMJcJ/hyw7CLtrW+ykg6kyAOwtPUfB2\nycRtBknNqtBY4s0VgUGsc+yYmwKBgQDRlJVNUal+acmO3aKA2lorbXX+Pd449D73\nvk8wismDpAJahtPTwxhgMTps2cojlVMLNLhy1R9A9QX3agVZYiBbG41ysvbeqOf9\n8DS5+CppxqxN6shbuffSEQ9Fm/aCrdTIUYLcdemkLTVZiIOnh4y4GtAIz4KHJ8Hy\nNJGvNnnigwKBgQDpAVk4Fy0BB8Rug8elKZ+NCYcZjSpMd6AJK9i8TgdbaZ8JaCNm\nGX6tPPh5G2+FEbzemvpWqoZIVgPWSiMeLyC8NfbhWDP+E+xg2N8IfL8YcAKewl4I\n+OpbpImZE8b6kizyd3FejMz2coVeNBFSjqcWDCKuMSU3YWh2HNApzYU2oQKBgFCp\nFdk/L7OWdVuF05Ax+XgzVbE3EHrtDfr9hK7TC4GdssYyk/4xXQVQjQLtw010oBR1\nAvQ3MCMo6lXxuQNQr9FAxmy5kifZ7Aeg1joo1/ID47bNQLWE2ms/45fP0c0zp+w8\n6td8jiKAv8KotrrYgYEt2Jk7fCoWVB+qudMsbTaPAoGAOwLMx4VwVspV3VWpXOm5\nkkRmUFC3yJSAP98z8X4wSCUJusq8EtfoZ9URIMBIxXzslZeJt1wLVV76iQbrLW0F\nxzqN9dOoFXLqmE40rwwkj63J1IK5fVWW21ublwJRbB3hptuns0K22sfSp6xn1m5Q\n2ccm9tIikGllM+f5PcyYRgc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "col-project-one@columbia-project-250815.iam.gserviceaccount.com",
+  "client_id": "115355209479876367502",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/col-project-one%40columbia-project-250815.iam.gserviceaccount.com"
+}
