@@ -1,0 +1,1764 @@
+,firstName,lastName,decade
+1,Andre,Agassi,70s
+2,Andy,Warhol,20s
+4,Allen,Ginsberg,20s
+8,Paul,Krugman,50s
+9,Alec,Baldwin,50s
+10,Kirk,Douglas,10s
+11,Bill,Clinton,40s
+12,Britney,Spears,80s
+13,Bill,Gates,50s
+18,Brian,De Palma,40s
+19,Buddy,Holly,30s
+20,Billy,Bob Thornton,50s
+21,Jesse,McCartney,80s
+22,Cyndi,Lauper,50s
+23,Bruce,Campbell,50s
+25,Bo,Diddley,20s
+27,Bill,Bryson,50s
+28,Brad,Delson,70s
+29,Claude,Elwood Shannon,10s
+31,Chuck,Yeager,20s
+33,Miles,Davis,20s
+34,Christopher,Walken,40s
+35,Tony,Bennett,20s
+37,James,Earl Ray,20s
+38,Craig,Venter,40s
+39,Eugene,Andrew Cernan,30s
+40,Charles,Mingus,20s
+41,Chet,Atkins,20s
+42,Mike,Shinoda,70s
+44,David,Lynch,40s
+45,David,Fincher,60s
+46,Douglas,Engelbart,20s
+47,Carlos,Bocanegra,70s
+48,Donald,Knuth,30s
+49,Dave,Grohl,60s
+50,Jeff,Buckley,60s
+52,Patrick,McGoohan,20s
+53,Doris,Day,20s
+54,David,Letterman,40s
+57,Dolly,Parton,40s
+59,Dennis,Hopper,30s
+60,David,Morse,50s
+61,Gary,Sinise,50s
+62,Dean,Koontz,40s
+63,Don,Rosa,50s
+64,Al,Oerter,30s
+66,Elvis,Presley,30s
+69,Milorad,ÄŒaviÄ‡,80s
+70,Daniel,Dennett,40s
+71,Eric,S. Raymond,50s
+72,James,Tobin,10s
+74,E.,O. Wilson,20s
+75,Jonathan,Demme,40s
+77,Saul,Kripke,40s
+78,Francis,Ford Coppola,30s
+79,Frank,Zappa,40s
+81,Frank,Herbert,20s
+82,LL,Cool J,60s
+84,Frank,Sinatra,10s
+85,Ludacris,,70s
+86,Milo,Ventimiglia,70s
+89,Gene,Kelly,10s
+90,Alison,Krauss,70s
+92,George,R. R. Martin,40s
+93,Stephen,Jay Gould,40s
+95,Gloria,Gaynor,40s
+96,George,Peppard,20s
+97,Jonathan,Davis,70s
+98,Felicity,Huffman,60s
+99,Rooney,Mara,80s
+101,Jack,Lemmon,20s
+102,Mike,Tyson,60s
+103,Glenn,T. Seaborg,10s
+104,Gene,Roddenberry,20s
+108,Alyssa,Milano,70s
+110,Halle,Berry,60s
+111,Harrison,Schmitt,30s
+112,Lhasa,de Sela,70s
+113,Laura,Branigan,50s
+115,Herbert,Simon,10s
+117,Donald,Rumsfeld,30s
+118,Hank,Aaron,30s
+119,Hunter,S. Thompson,30s
+120,Ice,T,50s
+121,Dennis,Ritchie,40s
+122,James,Spader,60s
+124,Jim,Jarmusch,50s
+125,James,Brown,30s
+127,John,Updike,30s
+128,John,Lee Hooker,10s
+130,Frank,Abagnale,40s
+132,Dan,Quayle,40s
+134,Jerry,Lewis,20s
+137,Jimmy,Carter,20s
+138,John,Irving,40s
+140,David,Boreanaz,60s
+141,Jimi,Hendrix,40s
+145,John,Roberts,50s
+147,Jackie,Robinson,10s
+148,Jeffrey,Dahmer,60s
+149,Jim,Henson,30s
+150,Janis,Joplin,40s
+153,Francis,Fukuyama,50s
+154,Jackson,Pollock,10s
+155,Chad,Michael Murray,80s
+158,Hugh,Hefner,20s
+159,Jack,Ruby,10s
+160,James,D. Watson,20s
+162,Ursula,K. Le Guin,20s
+163,Jennifer,Connelly,70s
+164,Steve,Vai,60s
+165,Julia,Roberts,60s
+166,John,Carpenter,40s
+167,Kurt,Cobain,60s
+168,Mike,Dirnt,70s
+169,Kyle,MacLachlan,50s
+170,Kevin,Spacey,50s
+171,James,Heckman,40s
+172,Kevin,Bacon,50s
+173,Kurt,Vonnegut,20s
+175,Kary,Mullis,40s
+176,Ken,Kesey,30s
+177,Kirsten,Dunst,80s
+178,Ben,Affleck,70s
+179,Laura,Bush,40s
+180,Lee,Harvey Oswald,30s
+181,L.,Ron Hubbard,10s
+184,John,Belushi,40s
+185,Rosie,O'Donnell,60s
+187,David,Petraeus,50s
+188,Lee,Van Cleef,20s
+189,Matt,Groening,50s
+190,Julius,Erving,50s
+192,Rebecca,Romijn,70s
+193,Tom,Kenny,60s
+194,Philip,Seymour Hoffman,60s
+195,Mr.,T,50s
+198,Nancy,Reagan,20s
+199,David,Schwimmer,60s
+200,Marlon,Brando,20s
+201,Nicole,Richie,80s
+202,Martin,"Luther King, Jr.",20s
+203,Jon,Favreau,60s
+204,Hank,Azaria,60s
+206,Michael,Mann,40s
+207,Martin,Gardner,10s
+208,David,Caruso,50s
+209,Telly,Savalas,20s
+210,Morgan,Freeman,30s
+211,Michael,Crichton,40s
+212,Malcolm,X,20s
+214,Meat,Loaf,40s
+215,Candice,Bergen,40s
+216,Kristanna,Loken,70s
+217,Neil,Armstrong,30s
+218,Nicole,Kidman,60s
+219,Noam,Chomsky,20s
+221,Nancy,Sinatra,40s
+222,Tori,Amos,60s
+223,Orson,Welles,10s
+224,Paul,Cohen,30s
+225,Patti,Smith,40s
+226,Philip,K. Dick,20s
+228,Carrie,Fisher,50s
+229,Paul,Allen,50s
+230,Poul,Anderson,20s
+231,Thomas,Pynchon,30s
+232,Walter,Gilbert,30s
+234,Philip,Glass,30s
+235,Paul,Auster,40s
+236,Peggy,Lee,20s
+237,Quentin,Tarantino,60s
+239,Robert,Byrd,10s
+240,Rush,Limbaugh,50s
+242,Richard,Chamberlain,30s
+243,Ashanti,,80s
+244,Robert,Rodriguez,60s
+245,Herbie,Hancock,40s
+246,Ralph,Nader,30s
+247,Gillian,Anderson,60s
+249,Robert,Noyce,20s
+250,Richard,Smalley,40s
+251,Robert,Curl,30s
+252,Chuck,Schuldiner,60s
+253,Logan,Lerman,90s
+254,Edward,C. Prescott,40s
+255,Robert,Johnson,10s
+258,Harrison,Ford,40s
+259,Michael,Bloomberg,40s
+260,Robin,Wright,60s
+261,Christopher,Lambert,50s
+262,Robert,Jordan,40s
+263,Rosa,Parks,10s
+264,Robert,De Niro,40s
+265,Roy,Orbison,30s
+266,Arthur,Miller,10s
+267,Colin,Powell,30s
+268,Moby,,60s
+269,Steven,Spielberg,40s
+270,Spike,Lee,50s
+271,Stephen,King,40s
+273,Sheryl,Crow,60s
+274,Steven,Soderbergh,60s
+275,Sean,Combs,60s
+276,James,Baldwin,20s
+277,Tim,Burton,50s
+278,Mark,Harmon,50s
+279,Doug,Savant,60s
+280,Sammy,"Davis, Jr.",20s
+281,Leonard,Nimoy,30s
+282,Sam,Raimi,50s
+283,Uma,Thurman,70s
+284,Method,Man,70s
+285,Sandra,Bullock,60s
+287,Steve,Ballmer,50s
+290,Tom,Clancy,40s
+292,Terry,Gilliam,40s
+293,Ted,Turner,30s
+294,Kaley,Cuoco,80s
+295,Charles,Durning,20s
+296,Mariah,Carey,70s
+297,Jared,Diamond,30s
+300,Alex,Haley,20s
+301,Donna,Summer,40s
+303,Tony,Hawk,60s
+305,Nick,Carter,80s
+307,Adam,Brody,70s
+308,Vint,Cerf,40s
+309,Edward,Norton,60s
+310,Lucille,Ball,10s
+311,Lynn,Margulis,30s
+313,William,Gibson,40s
+314,Ward,Cunningham,40s
+315,Woody,Guthrie,10s
+320,Brenda,Song,80s
+321,Cliff,Burton,60s
+322,William,S. Burroughs,10s
+326,John,Petrucci,60s
+327,Talia,Shire,40s
+328,Rick,Rubin,60s
+329,Matt,Damon,70s
+330,Whitney,Houston,60s
+331,Winona,Ryder,70s
+332,Wilma,Rudolph,40s
+333,William,Lipscomb,10s
+334,Gus,Grissom,20s
+335,Edward,Higgins White,30s
+336,Magic,Johnson,50s
+337,Blake,Edwards,20s
+339,Charlton,Heston,20s
+340,Bruce,Lee,40s
+344,Roger,Zelazny,30s
+345,Robin,Williams,50s
+346,John,Carmack,70s
+347,Ted,Kennedy,30s
+349,Timothy,McVeigh,60s
+350,Bhumibol,Adulyadej,20s
+351,Spiro,Agnew,10s
+352,Joyce,Carol Oates,30s
+353,Oscar,Gutierrez,70s
+357,Mike,Portnoy,60s
+359,Chris,Colfer,90s
+361,Larry,Ellison,40s
+362,Dr.,Dre,60s
+363,Krist,Novoselic,60s
+364,Walter,Mondale,20s
+366,Charles,M. Schulz,20s
+367,Frank,Drake,30s
+368,Grace,Kelly,20s
+369,Eazy-E,,60s
+370,Charles,Manson,30s
+371,Hubert,Humphrey,10s
+372,J.,Michael Straczynski,50s
+373,Coolio,,60s
+376,Sharon,Stone,50s
+377,Tayshaun,Prince,80s
+378,Ava,Gardner,20s
+379,Ralph,Ellison,10s
+380,Alice,Walker,40s
+381,Toni,Morrison,30s
+383,Chris,Jericho,70s
+385,Dave,Brubeck,20s
+386,Tom,Hanks,50s
+387,Eliza,Dushku,80s
+388,Drew,Barrymore,70s
+389,Robert,Altman,20s
+390,Andie,MacDowell,50s
+391,Cybill,Shepherd,50s
+392,Spencer,Tunick,60s
+393,R.,Kelly,60s
+396,Vanessa,L. Williams,60s
+398,Frank,Wilczek,50s
+401,Helen,Hunt,60s
+402,Glenn,Close,40s
+403,Aaron,Eckhart,60s
+404,Tennessee,Williams,10s
+405,Sharon,Tate,40s
+406,Brad,Pitt,60s
+407,John,Wayne Gacy,40s
+410,Chuck,Berry,20s
+412,Sidney,Poitier,20s
+413,Hilary,Putnam,20s
+416,Jesse,Owens,10s
+418,Kevin,James,60s
+419,Angela,Davis,40s
+421,Tiger,Woods,70s
+422,Raquel,Welch,40s
+423,William,Fichtner,50s
+424,Paul,Newman,20s
+425,Gary,Becker,30s
+426,Denzel,Washington,50s
+427,Ella,Fitzgerald,10s
+428,Billie,Holiday,10s
+429,Ike,Turner,30s
+431,Paul,Simon,40s
+432,Eddie,Vedder,60s
+434,DMX,,70s
+435,Arthur,Leonard Schawlow,20s
+437,Melinda,Gates,60s
+438,Meg,Ryan,60s
+439,DJ,Shadow,70s
+440,Henry,Mancini,20s
+443,Don,McLean,40s
+444,Jay,Leno,50s
+445,Carol,W. Greider,60s
+446,Robert,Burns Woodward,10s
+447,James,Hetfield,60s
+448,Weird,Al Yankovic,50s
+449,Danny,Trejo,40s
+450,Bonnie,Hunt,60s
+451,Jimmie,Johnson,70s
+454,John,Coltrane,20s
+455,Matt,LeBlanc,60s
+456,Richard,Meier,30s
+457,Robert,Venturi,20s
+458,Curtis,Mayfield,40s
+461,Matt,Dillon,60s
+462,John,Travolta,50s
+465,Dizzy,Gillespie,10s
+466,Charlie,Parker,20s
+467,Lawrence,Lessig,60s
+469,Alvin,Toffler,20s
+470,Edward,Witten,50s
+471,Aaliyah,,70s
+472,Larry,Bird,50s
+474,Quincy,Jones,30s
+475,Barry,White,40s
+476,Cher,,40s
+477,Prince,,50s
+479,James,M. Buchanan,10s
+480,Andrew,S. Tanenbaum,40s
+482,John,Denver,40s
+483,John,Glenn,20s
+484,Judy,Garland,20s
+486,Ron,Howard,50s
+487,Scatman,John,40s
+488,Burt,Lancaster,10s
+489,Billy,Crystal,40s
+491,Janet,Jackson,60s
+492,Carl,Sagan,30s
+493,Danny,Kaye,10s
+494,Jasper,Johns,30s
+495,Bruce,Springsteen,40s
+496,Kevin,Smith,70s
+497,Larry,Page,70s
+499,Lisa,Kudrow,60s
+500,Robert,Zemeckis,50s
+501,Eli,Wallach,10s
+502,John,Cusack,60s
+504,John,Milnor,30s
+505,Muddy,Waters,10s
+506,Travis,Barker,70s
+507,John,Grisham,50s
+512,Matthew,Morrison,70s
+513,Warren,Beatty,30s
+516,Joseph,E. Stiglitz,40s
+517,Jon,Bon Jovi,60s
+519,Linda,Hamilton,50s
+520,Meryl,Streep,40s
+521,John,McCarthy,20s
+523,Sissy,Spacek,40s
+526,Patricia,Highsmith,20s
+527,Alan,Shepard,20s
+528,Muhammad,Ali,40s
+529,Chuck,Palahniuk,60s
+530,Jack,Kilby,20s
+533,Ginger,Rogers,10s
+535,Jean-Michel,Basquiat,60s
+537,Jennifer,Lopez,60s
+538,Buzz,Aldrin,30s
+539,Sam,Peckinpah,20s
+540,Pete,Sampras,70s
+544,Philip,JosÃ© Farmer,10s
+545,Maurice,Greene,70s
+546,Joseph,Greenberg,10s
+548,Carl,Lewis,60s
+551,Jennifer,Jones,10s
+552,Steven,Seagal,50s
+553,Robert,Wise,10s
+554,Jessica,Lange,40s
+557,Martin,Sheen,40s
+558,Faye,Dunaway,40s
+559,Jack,Kirby,10s
+560,Anna,Nicole Smith,60s
+561,Kareem,Abdul-Jabbar,40s
+562,Kevin,Federline,70s
+563,Justin,Timberlake,80s
+564,Selena,,70s
+565,Leon,M. Lederman,20s
+567,Gwen,Stefani,60s
+568,Lee,Marvin,20s
+569,Debbie,Reynolds,30s
+570,Larry,Flynt,40s
+571,Martin,Scorsese,40s
+572,John,Backus,20s
+574,Johnny,Depp,60s
+575,Paul,Walker,70s
+576,Marvin,Minsky,20s
+577,Edward,Furlong,70s
+578,Robert,Englund,40s
+579,Frank,Miller,50s
+580,Milton,Friedman,10s
+582,Joe,Lieberman,40s
+583,Michael,Moore,50s
+584,Jenna,Jameson,70s
+585,Anton,LaVey,30s
+587,J.,Christopher Stevens,60s
+588,Fergie,,70s
+589,Murray,Rothbard,20s
+590,Tyson,Chandler,80s
+591,Michael,Douglas,40s
+592,Merton,Miller,20s
+593,Samuel,Barber,10s
+594,Mel,Brooks,20s
+596,Alexander,Haig,20s
+597,William,Westmoreland,10s
+598,The,Rock,70s
+599,Elliott,Smith,60s
+600,Robin,Tunney,70s
+601,Liza,Minnelli,40s
+602,Katey,Sagal,50s
+603,Kate,Mulgrew,50s
+606,Michael,Jordan,60s
+607,Murray,Gell-Mann,20s
+608,Tina,Turner,30s
+609,George,C. Scott,20s
+611,Peter,Falk,20s
+612,BeyoncÃ©,,80s
+613,Thelonious,Monk,10s
+614,Daron,Malakian,70s
+617,Nick,Nolte,40s
+619,Richard,Feynman,10s
+621,Madeleine,Stowe,50s
+622,Robert,Mitchum,10s
+623,Rudy,Giuliani,40s
+624,Raymond,Kurzweil,40s
+625,Belinda,Carlisle,50s
+627,Robert,Nozick,30s
+634,Robert,Moog,30s
+637,Patsy,Cline,30s
+639,Tony,Levin,40s
+640,Stanley,Kubrick,20s
+641,Steve,Reich,30s
+643,Art,Clokey,20s
+645,Sarah,Michelle Gellar,70s
+651,Hilary,Swank,70s
+653,Reese,Witherspoon,70s
+654,Stanley,Milgram,30s
+655,David,Carradine,30s
+658,Tupac,Shakur,70s
+659,Jamie,Lynn Spears,90s
+660,Jerry,Lee Lewis,30s
+661,Woody,Allen,30s
+662,Johnny,Carson,20s
+664,Daniel,McFadden,30s
+665,Robert,"Lucas, Jr.",30s
+666,Christina,Applegate,70s
+667,Wallace,Shawn,40s
+669,John,Hughes,50s
+670,John,Forbes Nash,20s
+671,Will,Eisner,10s
+672,Tina,Fey,70s
+675,William,Forsyth Sharpe,30s
+676,Steve,Martin,40s
+677,Roger,Wolcott Sperry,10s
+680,Danny,DeVito,40s
+681,Al,Pacino,40s
+684,Douglass,North,20s
+685,Jason,Lee,70s
+686,M.,Shadows,80s
+687,Synyster,Gates,80s
+688,Nancy,Cartwright,50s
+690,The,Rev,80s
+691,John,Rawls,20s
+692,Billy,Joel,40s
+693,Paul,Giamatti,60s
+694,Richie,Sambora,50s
+695,Alice,Cooper,40s
+696,Kenneth,Arrow,20s
+697,Madonna,,50s
+698,Buckethead,,60s
+701,Jeffrey,P. Bezos,60s
+702,Robert,Ludlum,20s
+703,Eddie,Murphy,60s
+704,Lily,Tomlin,30s
+705,Chester,Bennington,70s
+706,Joe,Hahn,70s
+707,Ted,Bundy,40s
+708,Tera,Patrick,70s
+709,Whoopi,Goldberg,50s
+710,Trent,Reznor,60s
+711,Tyra,Banks,70s
+712,Yehudi,Menuhin,10s
+713,Brandy,Norwood,70s
+714,Steve,McQueen,30s
+716,Joe,Biden,40s
+717,Will,Ferrell,60s
+718,Rebecca,Black,90s
+719,Les,Paul,10s
+720,Fiona,Apple,70s
+721,Kim,Novak,30s
+722,Richard,Simmons,40s
+723,Little,Richard,30s
+724,John,Searle,30s
+725,Nancy,Pelosi,40s
+726,Ray,Charles,30s
+727,Fats,Domino,20s
+728,Sam,Cooke,30s
+729,Frances,McDormand,50s
+730,Pat,Morita,30s
+731,Aretha,Franklin,40s
+732,Shirley,MacLaine,30s
+733,Sid,Meier,50s
+734,Stevie,Wonder,50s
+735,Shaquille,O'Neal,70s
+736,Joe,Louis,10s
+738,Gregory,Peck,10s
+739,William,Styron,20s
+740,Queen,Latifah,70s
+741,Jaco,Pastorius,50s
+742,Judith,Butler,50s
+744,James,Coburn,20s
+745,Lou,Reed,40s
+746,Ronnie,James Dio,40s
+748,Cliff,Robertson,20s
+749,Willie,Nelson,30s
+750,Montgomery,Clift,20s
+751,Axl,Rose,60s
+752,George,Foreman,40s
+753,Philip,Roth,30s
+754,Alicia,Keys,80s
+755,Michael,S. Dell,60s
+756,Dean,Martin,10s
+757,Roy,Lichtenstein,20s
+758,Vincent,Price,10s
+760,Sylvester,Stallone,40s
+761,Jennifer,Beals,60s
+762,Danielle,Steel,40s
+764,B.B.,King,20s
+767,Ornette,Coleman,30s
+768,Wes,Craven,30s
+769,Joe,Frazier,40s
+770,Richard,Gere,40s
+771,Will,Wright,60s
+772,Walter,Matthau,20s
+773,Betty,Ford,10s
+775,Jane,Fonda,30s
+776,Diana,Ross,40s
+777,Will,Smith,60s
+779,Sam,Walton,10s
+780,Truman,Capote,20s
+781,Frederick,Reines,10s
+782,Mary,Steenburgen,50s
+783,Sigourney,Weaver,40s
+784,Bill,Evans,20s
+785,Laurence,Fishburne,60s
+786,Marcia,Gay Harden,50s
+787,Dave,Mustaine,60s
+788,Iggy,Pop,40s
+789,Mia,Hamm,70s
+790,Nicolas,Cage,60s
+791,Maria,Callas,20s
+793,Condoleezza,Rice,50s
+794,Evander,Holyfield,60s
+795,Susan,Sarandon,40s
+796,George,Clooney,60s
+797,Bill,Cosby,30s
+799,River,Phoenix,70s
+800,Tony,Curtis,20s
+801,Lloyd,Shapley,20s
+802,Ben,Foster,80s
+803,Snoop,Dogg,70s
+804,Art,Garfunkel,40s
+805,Jewel,,70s
+806,Jason,Robards,20s
+807,Stanley,B. Prusiner,40s
+809,Billie,Jean King,40s
+810,Barbra,Streisand,40s
+811,Jennette,McCurdy,90s
+812,Ernest,Borgnine,10s
+813,Billy,Zane,60s
+815,Christopher,Reeve,50s
+816,Russell,Westbrook,80s
+817,Shane,Dawson,80s
+818,Mario,Puzo,20s
+819,Samantha,Smith,70s
+821,Chuck,Norris,40s
+822,Lauryn,Hill,70s
+823,Harvey,Keitel,30s
+824,Danny,Elfman,50s
+825,Larry,Wall,50s
+826,Daryl,Hannah,60s
+827,Hank,Williams,20s
+829,Elijah,Wood,80s
+831,Ethan,Hawke,70s
+832,Mickey,Rooney,20s
+833,Roy,Scheider,30s
+834,Solomon,Burke,40s
+835,Karl,Malden,10s
+836,Marilyn,Monroe,20s
+837,Serena,Williams,80s
+838,Howard,Zinn,20s
+839,Cyrus,Vance,10s
+842,Isaac,Hayes,40s
+843,David,Hasselhoff,50s
+844,John,Edwards,50s
+846,Mahalia,Jackson,10s
+847,Nat,King Cole,10s
+848,Brittany,Murphy,70s
+849,Stevie,Ray Vaughan,50s
+850,Lisa,Edelstein,60s
+851,Sarah,Vaughan,20s
+852,Connie,Francis,30s
+853,Frankie,Muniz,80s
+854,Walter,Cronkite,10s
+855,Dionne,Warwick,40s
+856,Dustin,Hoffman,30s
+857,Ben,Stiller,60s
+859,Gwyneth,Paltrow,70s
+860,Kris,Kristofferson,30s
+861,Ashley,Judd,60s
+862,Thora,Birch,80s
+863,Don,DeLillo,30s
+864,Faith,Hill,60s
+865,F.,Murray Abraham,30s
+866,Lil,Wayne,80s
+867,James,Garner,20s
+868,Ritchie,Valens,40s
+869,James,Woods,40s
+870,Ron,Paul,30s
+871,Nelly,,70s
+872,Billy,Ray Cyrus,60s
+873,Tracy,Chapman,60s
+874,Leonardo,DiCaprio,70s
+875,Robert,C. Merton,40s
+876,Heather,Graham,70s
+877,Andy,Kaufman,40s
+878,Lionel,Richie,40s
+880,Sidney,Sheldon,10s
+881,Robert,Hofstadter,10s
+882,Julia,Louis-Dreyfus,60s
+883,Chris,Rock,60s
+884,Woody,Harrelson,60s
+885,Adam,Sandler,60s
+886,Ed,Harris,50s
+887,Chaka,Khan,50s
+888,Jerry,Seinfeld,50s
+889,Cannonball,Adderley,20s
+890,Larry,David,40s
+892,Henry,Way Kendall,20s
+893,Samuel,P. Huntington,20s
+894,Erykah,Badu,70s
+895,Pete,Seeger,10s
+896,Lindsay,Davenport,70s
+897,Paul,Stanley,50s
+898,Conan,O'Brien,60s
+899,Val,Kilmer,50s
+900,Jeff,Bridges,40s
+901,John,Cage,10s
+902,Tom,Berenger,40s
+903,Vernon,L. Smith,20s
+904,Thomas,L. Friedman,50s
+905,The,Notorious B.I.G.,70s
+907,Burt,Reynolds,30s
+908,Lana,Turner,20s
+909,Traci,Lords,60s
+910,Newt,Gingrich,40s
+911,Burt,Bacharach,20s
+912,Florence,Griffith-Joyner,50s
+913,Mos,Def,70s
+914,Missy,Elliott,70s
+915,Marion,Jones,70s
+917,Fred,Durst,70s
+918,Lucy,Liu,60s
+919,Tom,Wolfe,30s
+920,Ray,Manzarek,30s
+921,Kathleen,Turner,50s
+922,Chris,Tucker,70s
+923,Sally,Ride,50s
+924,Ja,Rule,70s
+925,Ken,Wilber,40s
+926,Jane,Wyman,10s
+927,Loretta,Young,10s
+928,Nas,,70s
+929,John,F. Kennedy,10s
+930,Carole,King,40s
+931,Pete,Conrad,30s
+932,Ellen,Burstyn,30s
+933,David,Bohm,10s
+934,Busta,Rhymes,70s
+935,Steve,Fossett,40s
+937,Anne,Baxter,20s
+938,Shelley,Winters,20s
+939,Don,Rickles,20s
+940,Harry,Belafonte,20s
+941,Demi,Moore,60s
+943,Tim,Allen,50s
+944,Jeb,Bush,50s
+945,Norman,Mailer,20s
+946,William,Friedkin,30s
+947,John,Williams,30s
+948,George,Akerlof,40s
+949,Joe,Pantoliano,50s
+950,Joss,Whedon,60s
+951,Cuba,"Gooding, Jr.",60s
+952,Joanne,Woodward,30s
+953,Raymond,Carver,30s
+954,George,Carlin,30s
+955,Harper,Lee,20s
+957,Richard,Dreyfuss,40s
+959,Julie,Kavner,50s
+960,Rachel,Corrie,70s
+962,Ben,Roy Mottelson,20s
+963,Cynthia,Nixon,60s
+964,Bettie,Page,20s
+965,Don,Johnson,40s
+966,Alan,Arkin,30s
+968,Charles,Barkley,60s
+969,Ice,Cube,60s
+970,Beck,Hansen,70s
+971,Jack,Kevorkian,20s
+973,Ben,Browder,60s
+974,Ryan,O'Neal,40s
+975,Roger,Myerson,50s
+976,RenÃ©e,Zellweger,60s
+977,Kim,Basinger,50s
+980,Alan,Greenspan,20s
+981,James,Cronin,30s
+983,Jay-Z,,60s
+984,Oliver,E. Williamson,30s
+985,Viggo,Mortensen,50s
+986,Geraldine,Page,20s
+987,Bernard,Herrmann,10s
+988,Keith,Jarrett,40s
+989,David,Robinson,60s
+990,Harry,Harrison,20s
+991,Etta,James,30s
+992,Charles,Bronson,20s
+993,Neil,Diamond,40s
+994,Reba,McEntire,50s
+995,Wes,Montgomery,20s
+996,Patricia,Neal,20s
+997,Edward,James Olmos,40s
+998,Bette,Midler,40s
+999,Wynton,Marsalis,60s
+1001,Lenny,Kravitz,60s
+1002,Warren,Buffett,30s
+1003,John,Mayer,70s
+1004,Bret,Easton Ellis,60s
+1005,Mia,Farrow,40s
+1006,Anthony,Perkins,30s
+1007,James,Baker,30s
+1009,Willem,Dafoe,50s
+1010,Patricia,Arquette,60s
+1011,Diane,Keaton,40s
+1012,Robert,Downey Jr.,60s
+1013,Nina,Simone,30s
+1015,Usher,,70s
+1016,Pink,,70s
+1017,LeAnn,Rimes,80s
+1018,Leelee,Sobieski,80s
+1019,Amare,Stoudemire,80s
+1020,Eva,Marie Saint,20s
+1021,Peter,Fonda,40s
+1022,Lady,Bird Johnson,10s
+1023,Paul,Samuelson,10s
+1024,Layne,Staley,60s
+1025,Kerry,King,60s
+1026,Robert,F. Kennedy,20s
+1027,Kate,Hudson,70s
+1028,Eugene,Merle Shoemaker,20s
+1029,Gus,Van Sant,50s
+1030,Haley,Joel Osment,80s
+1031,Linda,McCartney,40s
+1035,Kevin,Kline,40s
+1037,Chris,Cornell,60s
+1038,Rob,Lowe,60s
+1039,Chris,Evert,50s
+1040,Jim,Jones,30s
+1041,Rahm,Emanuel,50s
+1042,Darren,Aronofsky,60s
+1043,David,Baltimore,30s
+1044,Louise,Fletcher,30s
+1045,Steve,Buscemi,50s
+1046,John,Frusciante,70s
+1047,Susan,Hayward,10s
+1048,Robert,K. Merton,10s
+1049,Laurie,Holden,60s
+1052,Michael,Stipe,60s
+1053,Norah,Jones,70s
+1054,Rocky,Marciano,20s
+1055,Bridget,Fonda,60s
+1056,Michael,Keaton,50s
+1057,Judy,Holliday,20s
+1058,Jada,Pinkett Smith,70s
+1059,Farrah,Fawcett,40s
+1060,Roderick,MacKinnon,50s
+1061,George,Takei,30s
+1064,Joe,Mantegna,40s
+1065,Lawrence,Klein,20s
+1066,James,Cromwell,40s
+1067,Jason,Newsted,60s
+1068,Paul,Wolfowitz,40s
+1069,LeBron,James,80s
+1070,Rosalynn,Carter,20s
+1071,50,Cent,70s
+1072,Carl,Wieman,50s
+1073,Cheech,Marin,40s
+1074,Debra,Winger,50s
+1077,Lara,Flynn Boyle,70s
+1078,Julianne,Moore,60s
+1079,Josh,Hartnett,70s
+1080,Josh,Groban,80s
+1082,Kobe,Bryant,70s
+1083,Ryan,Phillippe,70s
+1084,Willis,Lamb,10s
+1085,Freddie,"Prinze, Jr.",70s
+1086,Tommy,Lee Jones,40s
+1087,Gerald,Edelman,20s
+1088,Matthew,Broderick,60s
+1090,Richard,Rorty,30s
+1091,Samuel,C. C. Ting,30s
+1094,Jim,Belushi,50s
+1095,Steven,Weinberg,30s
+1098,James,Van Allen,10s
+1099,John,Myung,60s
+1100,Wilt,Chamberlain,30s
+1101,Jim,Varney,40s
+1102,Aaron,Sorkin,60s
+1103,Christopher,Lloyd,30s
+1105,Jennifer,Hudson,80s
+1106,Anne,Bancroft,30s
+1107,Priscilla,Presley,40s
+1108,Kelly,Rowland,80s
+1109,Macaulay,Culkin,80s
+1110,Mary,J. Blige,70s
+1111,Bernie,Mac,50s
+1112,Robert,Solow,20s
+1114,Marisa,Tomei,60s
+1115,Richard,Dean Anderson,50s
+1116,Claire,Danes,70s
+1117,Kenny,Rogers,30s
+1118,Nora,Ephron,40s
+1119,Isiah,Thomas,60s
+1120,James,Horner,50s
+1122,John,Goodman,50s
+1123,Juliette,Lewis,70s
+1124,Jon,Lovitz,50s
+1125,Ray,Romano,50s
+1126,Nathan,Lane,50s
+1127,Michael,Spence,40s
+1128,Jon,Stewart,60s
+1129,Ashton,Kutcher,70s
+1130,Mark,David Chapman,50s
+1131,Joe,Dassin,30s
+1132,Ferid,Murad,30s
+1133,John,C. Reilly,60s
+1134,Norman,Borlaug,10s
+1136,Kristin,Davis,60s
+1137,Aaron,Spelling,20s
+1138,Jake,Gyllenhaal,80s
+1139,Utada,Hikaru,80s
+1140,Tom,Selleck,40s
+1141,Joe,Pesci,40s
+1142,Anna,Faris,70s
+1143,Sonny,Rollins,30s
+1144,Elmer,Bernstein,20s
+1146,David,Copperfield,50s
+1147,Oscar,Robertson,30s
+1148,James,Newton Howard,50s
+1149,Michelle,Trachtenberg,80s
+1150,H.,Robert Horvitz,40s
+1151,Christian,Slater,60s
+1152,Martin,Landau,20s
+1153,Maya,Angelou,20s
+1154,Pat,Metheny,50s
+1155,Harry,Markowitz,20s
+1156,Jane,Krakowski,60s
+1157,Lauren,Bacall,20s
+1158,Jean,Harlow,10s
+1159,Owen,Wilson,60s
+1160,Chris,Columbus,50s
+1161,John,Stockton,60s
+1162,RZA,,60s
+1163,Bill,Maher,50s
+1164,Dita,Von Teese,70s
+1166,Courteney,Cox,60s
+1167,Chick,Corea,40s
+1168,Michael,Madsen,50s
+1169,Mike,Huckabee,50s
+1170,Hulk,Hogan,50s
+1171,Julian,Schwinger,10s
+1172,John,Cassavetes,20s
+1173,Leland,H. Hartwell,30s
+1174,Joel,Schumacher,30s
+1175,Triple,H,60s
+1176,Michael,Bay,60s
+1177,Edgar,Dean Mitchell,30s
+1178,Vince,McMahon,40s
+1179,Bill,Paxton,50s
+1180,Mira,Sorvino,60s
+1181,Allen,Iverson,70s
+1182,Mick,Foley,60s
+1183,Rita,Hayworth,10s
+1184,Christopher,Paolini,80s
+1185,Robert,Rauschenberg,20s
+1186,Shawn,Michaels,60s
+1187,Charlie,Sheen,60s
+1188,Rob,Van Dam,70s
+1189,Michelle,Rodriguez,70s
+1190,Keith,Haring,50s
+1191,Eddie,Guerrero,60s
+1193,Stan,Getz,20s
+1194,Chet,Baker,20s
+1195,Steve,Carell,60s
+1196,Maurice,Sendak,20s
+1197,Michelle,Branch,80s
+1198,Susan,Sontag,30s
+1199,Carrot,Top,60s
+1200,Jerry,Bruckheimer,40s
+1203,Sean,Hayes,70s
+1204,Greg,Grunberg,60s
+1205,Mike,Powell,60s
+1206,Miranda,Cosgrove,90s
+1207,Danny,Aiello,30s
+1208,Larry,King,30s
+1209,Jody,Williams,50s
+1210,Giovanni,Ribisi,70s
+1211,Dennis,Quaid,50s
+1212,Anthony,Kiedis,60s
+1215,Robert,Woodrow Wilson,30s
+1216,Barry,Levinson,40s
+1217,Jennifer,Tilly,50s
+1218,Arthur,Ashe,40s
+1219,Fran,Drescher,50s
+1220,Bryce,Dallas Howard,80s
+1221,Jayceon,Terrell Taylor,70s
+1222,Anne,Heche,60s
+1223,James,Irwin,30s
+1224,Mark,Wahlberg,70s
+1225,Bobby,McFerrin,50s
+1226,Scottie,Pippen,60s
+1228,Jerome,Isaac Friedman,30s
+1229,Larry,Hagman,30s
+1230,Cormac,McCarthy,30s
+1231,Diane,Lane,60s
+1232,Jamie,Foxx,60s
+1233,John,Archibald Wheeler,10s
+1234,Nate,Dogg,60s
+1235,Israel,Kamakawiwo'ole,50s
+1236,David,Scott,30s
+1237,Kirstie,Alley,50s
+1238,John,Turturro,50s
+1239,Zooey,Deschanel,80s
+1240,TÃ©a,Leoni,60s
+1241,Jerry,West,30s
+1242,Wally,Schirra,20s
+1243,Gordon,Cooper,20s
+1244,Ric,Flair,40s
+1246,Paul,Lauterbur,20s
+1247,Emily,Deschanel,70s
+1248,Beau,Bridges,40s
+1249,Richard,Holbrooke,40s
+1251,Jennifer,Capriati,70s
+1252,Rosanna,Arquette,50s
+1253,Allyson,Felix,80s
+1255,Adam,Levine,70s
+1257,Mena,Suvari,70s
+1258,Phil,Hill,20s
+1259,Stanford,Moore,10s
+1261,America,Ferrera,80s
+1262,Shia,LaBeouf,80s
+1263,Chris,Penn,60s
+1264,Jim,Lovell,20s
+1265,Andy,Roddick,80s
+1266,Phyllis,Diller,10s
+1267,Dwyane,Wade,80s
+1269,Mark,Calaway,60s
+1270,Ellen,Pompeo,60s
+1271,Kurt,Angle,60s
+1272,Anastacia,,60s
+1273,Bryan,Cranston,50s
+1274,Marc,Anthony,60s
+1275,Veronica,Lake,20s
+1276,Casey,Affleck,70s
+1277,J.J.,Abrams,60s
+1278,Patti,Page,20s
+1279,Melvin,Calvin,10s
+1280,Matt,Hardy,70s
+1281,Dennis,Rodman,60s
+1282,Steven,Williams,60s
+1284,Gertrude,B. Elion,10s
+1285,George,Papandreou jr.,50s
+1286,Debra,Messing,60s
+1288,Alex,Jones,70s
+1289,Brian,Greene,60s
+1290,Robert,Wadlow,10s
+1291,Sofia,Coppola,70s
+1292,George,A. Romero,40s
+1293,Willow,Smith,00s
+1294,Sidney,Lumet,20s
+1295,Matt,Stone,70s
+1296,Trey,Parker,60s
+1297,Bradley,Cooper,70s
+1298,Mandy,Moore,80s
+1299,Joseph,Gordon-Levitt,80s
+1300,Clyde,Drexler,60s
+1301,Donald,A. Glaser,20s
+1302,Laura,Linney,60s
+1303,Nikki,Reed,80s
+1304,Alexis,Bledel,80s
+1305,Thomas,Cech,40s
+1306,CM,Punk,70s
+1307,Seth,MacFarlane,70s
+1308,Emily,Osment,90s
+1309,Will.i.am,,70s
+1311,Brendan,Fraser,60s
+1312,Camilla,Belle,80s
+1314,Michael,Chang,70s
+1315,Edmund,Phelps,30s
+1316,Jason,Segel,80s
+1317,Donna,Reed,20s
+1318,Leon,Cooper,30s
+1320,Jennifer,Morrison,70s
+1321,Izzy,Stradlin,60s
+1322,Charles,Hard Townes,10s
+1323,Burton,Richter,30s
+1324,Terrence,Howard,60s
+1325,Bobby,Fischer,40s
+1326,James,Rainwater,10s
+1327,Sheldon,Lee Glashow,30s
+1328,Philip,Warren Anderson,20s
+1330,Maggie,Gyllenhaal,70s
+1331,Michelle,Obama,60s
+1332,Val,Logsdon Fitch,20s
+1333,Crispin,Glover,60s
+1334,Rob,Zombie,60s
+1336,William,H. Macy,50s
+1337,Dennis,Tito,40s
+1338,James,Caan,40s
+1339,Eric,Roberts,50s
+1340,Vin,Diesel,60s
+1341,Philip,Kotler,30s
+1342,Sylvia,Plath,30s
+1343,Aaron,Swartz,80s
+1344,Pat,Nixon,10s
+1345,Timbaland,,70s
+1347,Steven,Tyler,40s
+1348,Elizabeth,Mitchell,70s
+1349,Sam,Harris,60s
+1350,Leonard,Bernstein,10s
+1351,Paul,Ryan,70s
+1352,Jayne,Mansfield,30s
+1353,K.,Barry Sharpless,40s
+1354,John,Fenn,10s
+1355,Tia,Carrere,60s
+1356,Hillary,Rodham Clinton,40s
+1357,Jordan,Rudess,50s
+1358,Bill,Russell,30s
+1359,Jason,Mraz,70s
+1360,Bruce,Beutler,50s
+1361,Corey,Taylor,70s
+1362,Kelly,Clarkson,80s
+1364,Michael,Clarke Duncan,50s
+1365,Calvin,Klein,40s
+1367,James,L. Brooks,40s
+1368,Jack,White,70s
+1369,Philip,Zimbardo,30s
+1370,Verne,Troyer,60s
+1371,Tony,Shalhoub,50s
+1372,Topher,Grace,70s
+1373,Martin,Chalfie,40s
+1374,Jack,Kerouac,20s
+1375,Ralph,Lauren,30s
+1376,Melanie,Griffith,50s
+1377,Russell,Alan Hulse,50s
+1378,Mitt,Romney,40s
+1379,Nicky,Hilton,80s
+1381,Julia,Stiles,80s
+1382,Michael,Cimino,30s
+1383,ReneÃ©,O'Connor,70s
+1384,Edward,B. Lewis,10s
+1385,Gene,Wilder,30s
+1386,Barry,Manilow,40s
+1387,Derrick,Rose,80s
+1388,Douglas,D. Osheroff,40s
+1390,Charlie,Kaufman,50s
+1392,Bill,Goldberg,60s
+1393,Chazz,Palminteri,50s
+1394,Annette,Bening,50s
+1395,Shelton,Benjamin,70s
+1396,Anne,Hathaway,80s
+1397,Norman,"Schwarzkopf, Jr.",30s
+1398,Dan,Brown,60s
+1399,Kristen,Stewart,90s
+1400,Sydney,Pollack,30s
+1401,Laura,Dern,60s
+1402,Chris,Pine,80s
+1404,George,Kennedy,20s
+1405,Piper,Perabo,70s
+1406,Elinor,Ostrom,30s
+1407,Angelina,Jolie,70s
+1408,Sam,J. Jones,50s
+1409,Karl,Malone,60s
+1410,Andrew,Garfield,80s
+1411,Devon,Aoki,80s
+1412,Julius,Axelrod,10s
+1413,James,Harden,80s
+1414,C.,Wright Mills,10s
+1415,John,Malkovich,50s
+1416,Jodie,Foster,60s
+1417,Michael,Biehn,50s
+1418,Cindy,Crawford,60s
+1419,Robert,Kiyosaki,40s
+1420,Robert,F. Furchgott,10s
+1422,Robert,Wagner,30s
+1423,Dwight,Howard,80s
+1424,Kim,Kardashian,80s
+1426,Jared,Leto,70s
+1427,Robert,Patrick,50s
+1428,Rachel,Bilson,80s
+1429,Gilbert,Gottfried,50s
+1430,Peter,MacNicol,50s
+1431,Frank,Welker,40s
+1432,James,Caviezel,60s
+1433,Eartha,Kitt,20s
+1434,Patrick,Swayze,50s
+1435,Joshua,Lederberg,20s
+1436,Jack,Johnson,70s
+1437,Toni,Braxton,60s
+1438,Rasheed,Wallace,70s
+1439,Vince,Carter,70s
+1440,Donald,J. Cram,10s
+1441,Joseph,"Hooton Taylor, Jr.",40s
+1442,Ellen,Barkin,50s
+1444,Rosario,Dawson,70s
+1445,Ray,Liotta,50s
+1446,Peter,Graves,20s
+1447,Tracy,McGrady,70s
+1448,Kate,Bosworth,80s
+1449,Elisabeth,Shue,60s
+1450,Jeremy,Lin,80s
+1451,Mary,McDonnell,50s
+1452,Marlon,Wayans,70s
+1453,Paul,D. Boyer,10s
+1454,Kesha,,80s
+1455,Lamar,Odom,70s
+1456,Ben,Wallace,70s
+1457,Matthew,Fox,60s
+1458,Huell,Howser,40s
+1459,Baruch,Samuel Blumberg,20s
+1460,Denise,Richards,70s
+1462,Kathy,Bates,40s
+1463,Clifford,Shull,10s
+1464,Omar,Epps,70s
+1465,Kanye,West,70s
+1466,Wes,Anderson,60s
+1467,Jimmy,Connors,50s
+1468,Howard,Gardner,40s
+1469,Cedric,the Entertainer,60s
+1470,Jackie,Joyner-Kersee,60s
+1471,Kevin,Garnett,70s
+1472,Immanuel,Wallerstein,30s
+1473,Andy,Williams,20s
+1474,Michael,E. Brown,60s
+1475,Skrillex,,80s
+1476,Wesley,Snipes,60s
+1477,Sean,Penn,60s
+1478,Bam,Margera,70s
+1479,Stanley,Cohen,20s
+1480,Barack,Obama,60s
+1481,Celeste,Holm,10s
+1482,Chris,Bosh,80s
+1483,Kevin,Costner,50s
+1484,Rosalyn,Sussman Yalow,20s
+1485,Brad,Guzan,80s
+1486,Rick,Perry,50s
+1488,Venus,Williams,80s
+1489,Don,Cheadle,60s
+1490,Fred,Dalton Thompson,40s
+1491,Jane,Lynch,60s
+1492,Jaden,Smith,90s
+1493,Marshall,Warren Nirenberg,20s
+1494,Theodore,Kaczynski,40s
+1495,Colbie,Caillat,80s
+1496,Brad,Friedel,70s
+1497,Parker,Posey,60s
+1498,Scott,Speed,80s
+1500,William,Alfred Fowler,10s
+1501,Paul,Wight,70s
+1502,Edwin,Moses,50s
+1503,David,Bryan,60s
+1504,Chris,Cooper,50s
+1505,Tyrone,Power,10s
+1508,Joe,DiMaggio,10s
+1510,Marcia,Cross,60s
+1511,Michael,E. Porter,40s
+1512,Janet,Leigh,20s
+1513,Ed,Asner,20s
+1514,Greg,Kinnear,60s
+1515,Paul,Berg,20s
+1516,Jack,Palance,10s
+1517,David,Arquette,70s
+1518,Mercedes,Ruehl,40s
+1519,Jane,Russell,20s
+1520,Sam,Shepard,40s
+1521,Ray,Allen,70s
+1522,William,Howard Stein,10s
+1523,Alan,J. Pakula,20s
+1524,Dianne,Wiest,40s
+1525,Ron,Perlman,50s
+1526,Calista,Flockhart,60s
+1528,Mario,Lanza,20s
+1529,David,Henrie,80s
+1530,Duff,McKagan,60s
+1531,William,Daniel Phillips,40s
+1533,Forest,Whitaker,60s
+1534,Carmelo,Anthony,80s
+1535,Amanda,Peet,70s
+1537,Chauncey,Billups,70s
+1538,Kenny,G,50s
+1539,Paul,Greengard,20s
+1540,Marilyn,Manson,60s
+1541,Justin,Gatlin,80s
+1542,Lloyd,Banks,80s
+1543,Dana,Delany,50s
+1544,Jim,Cummings,50s
+1545,Arthur,Kornberg,10s
+1546,Richard,Axel,40s
+1547,Michael,Johnson,60s
+1548,Sting,,50s
+1549,George,Lucas,40s
+1550,Jensen,Ackles,70s
+1552,Randy,Orton,80s
+1553,Irwin,Rose,20s
+1554,Vince,Vaughn,70s
+1555,Christian,B. Anfinsen,10s
+1556,Mark,Spitz,50s
+1557,Ben,Gazzara,30s
+1558,Sienna,Miller,80s
+1559,Jessica,Biel,80s
+1560,Nicholas,Sparks,60s
+1561,Jeremy,Renner,70s
+1562,Paul,Rudd,60s
+1563,Tara,Reid,70s
+1564,Jim,Courier,70s
+1565,Emmy,Rossum,80s
+1566,Elias,James Corey,20s
+1567,Jeff,Hardy,70s
+1568,Josh,Duhamel,70s
+1569,Billy,Graham,10s
+1570,Ali,Larter,70s
+1571,Leon,Panetta,30s
+1572,Keke,Palmer,90s
+1573,Joseph,Barbera,10s
+1574,Terry,O'Quinn,50s
+1575,Ashlee,Simpson-Wentz,80s
+1576,Neil,Patrick Harris,70s
+1577,Matt,Biondi,60s
+1578,Robert,Fogel,20s
+1579,Patrick,Dempsey,60s
+1580,Jay,Mohr,70s
+1581,Mark,Ruffalo,60s
+1583,Sasha,Grey,80s
+1584,Metta,World Peace,70s
+1585,Brad,Renfro,80s
+1587,Zach,Braff,70s
+1588,Pharrell,Williams,70s
+1590,Jeff,Daniels,50s
+1591,Billie,Joe Armstrong,70s
+1595,Michael,C. Hall,70s
+1596,MC,Hammer,60s
+1597,Laura,Prepon,80s
+1598,Brandon,Lee,60s
+1599,Thomas,Schelling,20s
+1600,Herbert,A. Hauptman,10s
+1601,Jerome,Karle,10s
+1602,Daniel,Nathans,20s
+1603,Jesse,Eisenberg,80s
+1604,Kim,Peek,50s
+1605,Summer,Glau,80s
+1606,Adam,Savage,60s
+1607,Paul,Pierce,70s
+1608,John,Boehner,40s
+1610,Cyd,Charisse,20s
+1611,Hamilton,O. Smith,30s
+1612,Katherine,Moennig,70s
+1613,Mark,Hamill,50s
+1615,Lauren,Graham,60s
+1616,Anna,Politkovskaya,50s
+1617,George,Stigler,10s
+1618,Zendaya,Coleman,90s
+1619,Earl,Wilbur Sutherland Jr.,10s
+1620,Bode,Miller,70s
+1621,Joseph,Murray,10s
+1622,Landon,Donovan,80s
+1623,Garrett,Hedlund,80s
+1624,Martin,Lewis Perl,20s
+1625,Sarah,Wayne Callies,70s
+1626,Robert,Gates,40s
+1627,Michael,Stuart Brown,40s
+1628,Neil,deGrasse Tyson,50s
+1629,Teri,Hatcher,60s
+1630,Andy,Richter,60s
+1631,Hal,Holbrook,20s
+1633,Eric,Allin Cornell,60s
+1634,James,Franco,70s
+1635,Sonia,Sotomayor,50s
+1637,Kal,Penn,70s
+1639,Andrew,Fire,50s
+1640,Eva,Longoria,70s
+1641,Melvin,Schwartz,30s
+1642,Tracy,Austin,60s
+1643,Michelle,Williams,80s
+1644,Kevin,Michael Richardson,60s
+1645,William,Hanna,10s
+1646,Seann,William Scott,70s
+1647,Jared,Padalecki,80s
+1648,John,Hennigan,70s
+1649,George,H. W. Bush,20s
+1650,Mardy,Fish,80s
+1653,Howard,Martin Temin,30s
+1654,Peter,Facinelli,70s
+1655,Jeremy,Wariner,80s
+1656,Brandon,Flowers,80s
+1657,Julia,Child,10s
+1660,Bryan,Singer,60s
+1661,Sally,Field,40s
+1662,Jerry,Goldsmith,20s
+1663,Thomas,J. Sargent,40s
+1664,January,Jones,70s
+1665,Sophia,Bush,80s
+1666,JoJo,,90s
+1667,Roy,J. Glauber,20s
+1668,David,Paterson,50s
+1669,Pitbull,,80s
+1670,Angelo,Taylor,70s
+1671,Missy,Franklin,90s
+1672,Tom,Waits,40s
+1674,Jessica,Alba,80s
+1675,Clint,Dempsey,80s
+1676,Marlee,Matlin,60s
+1677,Richard,Stallman,50s
+1678,Amanda,Seyfried,80s
+1679,Mary,Lynn Rajskub,70s
+1680,Frederick,Chapman Robbins,10s
+1681,Tom,DeLonge,70s
+1682,Evan,Rachel Wood,80s
+1683,Maggie,Grace,80s
+1684,Jorge,Garcia,70s
+1685,Eva,Mendes,70s
+1686,Corbin,Bleu,80s
+1687,Fat,Joe,70s
+1688,Linda,B. Buck,40s
+1690,Vernon,Chatman,70s
+1691,Peter,Agre,40s
+1692,Donald,Trump,40s
+1693,Louis,Ignarro,40s
+1694,Mark,Hoppus,70s
+1695,James,Marsden,70s
+1696,Phillip,Allen Sharp,40s
+1697,Elizabeth,Banks,70s
+1698,John,Cazale,30s
+1699,Reggie,Miller,60s
+1700,Amy,Lee,80s
+1701,Michael,Bradley,80s
+1702,Ian,Somerhalder,70s
+1703,Peter,A. Diamond,40s
+1704,Jessica,Chastain,70s
+1705,Nestor,Carbonell,60s
+1706,Lindsay,Lohan,80s
+1707,Ciara,,80s
+1708,Martin,Rodbell,20s
+1709,Bobby,Jindal,70s
+1711,Steve,Morse,50s
+1712,Joseph,Heller,20s
+1713,Lea,Michele,80s
+1714,William,Holden,10s
+1716,Alan,J. Heeger,30s
+1717,Steve,Zahn,60s
+1718,Saoirse,Ronan,90s
+1719,Lil,Jon,70s
+1721,Paris,Hilton,80s
+1722,Thom,Mayne,40s
+1723,Vanessa,Hudgens,80s
+1724,Jeff,Bennett,60s
+1725,Robert,Bruce Merrifield,20s
+1726,Eric,Maskin,50s
+1727,Robert,Lefkowitz,40s
+1728,Kristen,Bell,80s
+1729,Gilbert,Arenas,80s
+1731,Joseph,L. Goldstein,40s
+1732,J.,Michael Bishop,30s
+1735,Gene,Hackman,30s
+1736,Roger,Y. Tsien,50s
+1737,Kathryn,Bigelow,50s
+1738,Cameron,Diaz,70s
+1739,Alfred,G. Gilman,40s
+1740,Abigail,Breslin,90s
+1742,Arthur,Penn,20s
+1743,Richard,Bach,30s
+1744,Giuseppe,Rossi,80s
+1745,Dan,Castellaneta,50s
+1746,Edwin,G. Krebs,10s
+1747,Lady,Gaga,80s
+1748,T.I.,,80s
+1749,John,Robert Schrieffer,30s
+1750,Thomas,Huckle Weller,10s
+1752,Carrie,Underwood,80s
+1753,Herman,Cain,40s
+1754,Alvin,E. Roth,50s
+1755,Robert,Duvall,30s
+1756,Liv,Tyler,70s
+1757,John,Legend,70s
+1758,Cee-Lo,,70s
+1759,Greg,Cipes,80s
+1760,Dale,T. Mortensen,30s
+1761,Ted,Danson,40s
+1762,Holly,Marie Combs,70s
+1763,Stan,Lee,20s
+1764,Norman,Finkelstein,50s
+1765,Jason,Earles,70s
+1766,Paula,Abdul,60s
+1767,Courtney,Love,60s
+1768,J.,D. Salinger,10s
+1769,Elle,Fanning,90s
+1770,Betty,White,20s
+1771,Kirk,Hammett,60s
+1773,Timothy,Leary,20s
+1774,Monica,Lewinsky,70s
+1775,Edward,Norton Lorenz,10s
+1776,Zoe,Saldana,70s
+1777,E.,Donnall Thomas,20s
+1778,Alan,Alda,30s
+1779,Timothy,D. Cook,60s
+1780,ChloÃ«,Sevigny,70s
+1781,Terrence,Malick,40s
+1782,Megan,Fox,80s
+1783,Brooke,Shields,60s
+1784,Brandon,Routh,70s
+1786,Frank,McCourt,30s
+1789,Ben,Bernanke,50s
+1790,Clint,Eastwood,30s
+1791,Justin,Bartha,70s
+1792,Terry,Crews,60s
+1793,Danica,Patrick,80s
+1794,Michelle,Monaghan,70s
+1795,Kurt,Russell,50s
+1796,Boris,Johnson,60s
+1797,Robert,Sean Leonard,60s
+1798,Taylor,Momsen,90s
+1799,Dan,Simmons,40s
+1801,Alicia,Silverstone,70s
+1802,Richard,F. Heck,30s
+1803,AnnaSophia,Robb,90s
+1804,Linda,Lovelace,40s
+1805,Richard,Pryor,40s
+1806,Michele,Bachmann,50s
+1807,Betty,Friedan,20s
+1808,Mary,Blair,10s
+1809,Mike,Epps,70s
+1810,Floyd,Landis,70s
+1811,Channing,Tatum,80s
+1812,Phil,Spector,40s
+1813,Chris,Evans,80s
+1814,Natalie,Wood,30s
+1815,William,Standish Knowles,10s
+1816,Deron,Williams,80s
+1817,Robert,McNamara,10s
+1818,Carla,Gugino,70s
+1819,Mike,Mizanin,80s
+1820,Ne-Yo,,80s
+1821,Bernard,L. Madoff,30s
+1822,Ashley,Tisdale,80s
+1823,Paul,Tibbets,10s
+1824,Scarlett,Johansson,80s
+1825,Kenneth,G. Wilson,30s
+1826,Andre,Iguodala,80s
+1827,Liev,Schreiber,60s
+1828,David,Duchovny,60s
+1829,Geena,Davis,50s
+1830,Oliver,Stone,40s
+1831,Daniella,Monet,80s
+1832,Mary,Elizabeth Winstead,80s
+1833,Joey,Jordison,70s
+1834,Sunita,Williams,60s
+1836,Dian,Fossey,30s
+1837,Jerry,Brown,30s
+1838,Paul,Flory,10s
+1839,Justin,Long,70s
+1840,Ken,Anderson,70s
+1841,Gordon,Moore,20s
+1842,Rob,Schneider,60s
+1843,Matt,Sydal,80s
+1845,Olivia,Wilde,80s
+1847,Jennifer,Carpenter,70s
+1848,Chris,Brown,80s
+1849,John,Watts Young,30s
+1850,Tyson,Gay,80s
+1851,Zachary,Levi,80s
+1852,Robert,Knepper,50s
+1853,Victoria,Justice,90s
+1854,Vera,Farmiga,70s
+1855,Gore,Verbinski,60s
+1856,Ronald,Reagan,10s
+1857,Luis,Alvarez,10s
+1858,Josh,Radnor,70s
+1859,T-Pain,,80s
+1860,Zack,Snyder,60s
+1861,Jonas,Salk,10s
+1862,John,L. Hall,30s
+1863,Robert,H. Grubbs,40s
+1864,Richard,R. Schrock,40s
+1865,H.,David Politzer,40s
+1866,Edward,Mills Purcell,10s
+1867,Sarah,Palin,60s
+1868,Michael,Emerson,50s
+1869,Justin,Chambers,70s
+1870,Lana,Del Rey,80s
+1871,Josh,Hutcherson,90s
+1872,Danny,Glover,40s
+1873,Tim,Howard,70s
+1874,ChloÃ«,Moretz,90s
+1875,Leighton,Meester,80s
+1876,John,Michael Talbot,50s
+1877,George,Bush,40s
+1880,Owen,Chamberlain,20s
+1881,Jordin,Sparks,80s
+1882,Ginnifer,Goodwin,70s
+1883,Harold,E. Varmus,30s
+1884,Hayden,Panettiere,80s
+1885,Maggie,Q,70s
+1886,Jimmy,Wales,60s
+1887,Lucas,Grabeel,80s
+1888,Marshall,Allman,80s
+1889,Emma,Stone,80s
+1890,Jason,Kidd,70s
+1891,Roger,Ebert,40s
+1892,Lindsey,Vonn,80s
+1893,Katie,Holmes,70s
+1894,Mel,Gibson,50s
+1895,Clifford,Geertz,20s
+1896,Stanley,Tucci,60s
+1897,Suzanne,Collins,60s
+1898,Annise,Parker,50s
+1899,John,Cena,70s
+1901,Ed,"Wood, Jr.",20s
+1902,David,Strathairn,40s
+1903,Eminem,,70s
+1904,Stephenie,Meyer,70s
+1905,Cam,Gigandet,80s
+1907,Eddie,Fatu,70s
+1908,Jessica,Simpson,80s
+1909,Mitchel,Musso,90s
+1910,Bob,Dylan,40s
+1911,Rajon,Rondo,80s
+1912,Jeff,Dunham,60s
+1913,Robert,W. Holley,20s
+1914,Tom,Welling,70s
+1916,Chris,Paul,80s
+1917,Kelly,Kelly,80s
+1918,Keri,Hilson,80s
+1919,Gerald,Ford,10s
+1920,Eric,Dane,70s
+1921,Zachary,Quinto,70s
+1922,Saul,Perlmutter,50s
+1923,Rufus,Wainwright,70s
+1924,Dick,Cheney,40s
+1926,John,Kerry,40s
+1927,Wade,Williams,60s
+1928,Blake,Clark,40s
+1929,Taylor,Swift,80s
+1930,Akon,,70s
+1931,Gabrielle,Giffords,70s
+1932,Sam,Querrey,80s
+1933,Steve,Jobs,50s
+1934,Paul,Wesley,80s
+1935,O.,J. Simpson,40s
+1936,Darren,Criss,80s
+1937,Orson,Scott Card,50s
+1938,Dakota,Fanning,90s
+1940,Brian,P. Schmidt,60s
+1941,Viola,Davis,60s
+1942,Nicole,Scherzinger,70s
+1943,Selena,Gomez,90s
+1945,Seth,Green,70s
+1946,Steve,Wozniak,50s
+1947,Chace,Crawford,80s
+1948,Craig,Mello,60s
+1949,Dudley,R. Herschbach,30s
+1950,Emma,Roberts,90s
+1951,John,C. Mather,40s
+1952,George,Smoot,40s
+1953,Roger,D. Kornberg,40s
+1954,Kristen,Schaal,70s
+1955,Michio,Kaku,40s
+1956,Josh,Holloway,60s
+1958,Matisyahu,,70s
+1959,Steven,Chu,40s
+1961,Rick,Riordan,60s
+1962,Miley,Cyrus,90s
+1963,Zac,Efron,80s
+1964,Michelle,Pfeiffer,50s
+1965,Wiz,Khalifa,80s
+1966,Hope,Solo,80s
+1967,Katy,Perry,80s
+1969,Suzanne,Vega,50s
+1970,James,Gandolfini,60s
+1971,Bella,Thorne,90s
+1972,Hilary,Duff,80s
+1973,LaShawn,Merritt,80s
+1974,Kellan,Lutz,80s
+1975,Eliot,Spitzer,50s
+1976,Hayley,Williams,80s
+1978,Blake,Griffin,80s
+1979,Billy,Mays,50s
+1980,Jozy,Altidore,80s
+1982,Ryan,Lochte,80s
+1983,Jason,Bateman,60s
+1984,Sean,Kingston,90s
+1986,Mickey,Rourke,50s
+1987,Johnny,Cash,30s
+1988,Robert,Redford,30s
+1990,John,Isner,80s
+1991,Demi,Lovato,90s
+1992,Jennifer,Lawrence,90s
+1993,Randy,Pausch,60s
+1994,David,Spade,60s
+1995,Gerard,Way,70s
+1996,Taylor,Lautner,90s
+1998,Jim,Parsons,70s
+1999,Bob,Beamon,40s
+2000,Matthew,Perry,60s
+2001,Flo,Rida,70s
+2002,Dianna,Agron,80s
+2003,Kim,Stanley Robinson,50s
+2004,Michael,Jackson,50s
+2006,Jim,Morrison,40s
+2007,Debbie,Harry,40s
+2008,David,Archuleta,90s
+2009,Ashley,Greene,80s
+2010,Jamie,Lee Curtis,50s
+2011,Jason,Derulo,80s
+2012,Sean,Astin,70s
+2013,Tobey,Maguire,70s
+2014,Christina,Ricci,80s
+2015,Anna,Kendrick,80s
+2016,Anjelica,Huston,50s
+2017,Jacqueline,Kennedy Onassis,20s
+2018,Joan,Baez,40s
+2020,Joe,Jonas,80s
+2021,Christina,Aguilera,80s
+2022,Holly,Hunter,50s
+2023,Rebecca,Soni,80s
+2024,Ellen,DeGeneres,50s
+2025,Nick,Jonas,90s
+2026,Emilio,Estevez,60s
+2028,Jack,Black,60s
+2029,Jesse,Jackson,40s
+2030,Gloria,Stuart,10s
+2031,Jack,Nicholson,30s
+2032,Ray,Bradbury,20s
+2033,James,Earl Jones,30s
+2034,James,Dean,30s
+2035,Carmen,Electra,70s
+2036,Robert,Trujillo,60s
+2037,Booker,Huffman,60s
+2038,Tom,Cruise,60s
+2039,Carl,Woese,20s
+2040,Jeff,Koons,50s
+2041,Geraldine,Chaplin,40s
+2042,Annie,Leibovitz,40s
+2043,Anne,Rice,40s
+2045,Robert,F. Engle,40s
+2046,Bill,Murray,50s
+2047,Criss,Angel,60s
+2049,Lisa,Marie Presley,60s
+2050,David,Lee,30s
+2051,Michael,Phelps,80s
+2054,Shirley,Temple,20s
+2056,Jennifer,Love Hewitt,70s
+2057,Josh,Brolin,60s
+2058,David,Cook,80s
+2059,Peter,Wentz,70s
+2062,Kalomoira,Saranti,80s
+2067,Brian,Kobilka,50s
+2068,Gore,Vidal,20s
+2069,Bobby,Ray,80s
+2070,Oprah,Winfrey,50s
+2071,Debby,Ryan,90s
+2072,Kevin,Love,80s
+2073,Jennifer,Aniston,60s
+2074,Joe,Satriani,50s
+2075,Rod,Steiger,20s
+2076,Rock,Hudson,20s
+2078,Mark,Zuckerberg,80s
+2079,Jennifer,Garner,70s
+2080,Sarah,Jessica Parker,60s
+2081,H.,Jon Benjamin,60s
+2082,Jeff,Goldblum,50s
+2083,George,E. Smith,30s
+2084,Chris,O'Donnell,70s
+2085,Sterling,Knight,80s
+2086,Blake,Lively,80s
+2087,Shannen,Doherty,70s
+2088,Xzibit,,70s
+2089,Amanda,Bynes,80s
+2090,Kris,Allen,80s
+2091,Rick,Ross,70s
+2092,Paulette,Goddard,10s
+2093,Adrien,Brody,70s
+2095,Harvey,Milk,30s
+2096,Adam,Lambert,80s
+2098,Jon,Voight,30s
+2100,Johnny,Knoxville,70s
+2101,Heather,Elizabeth Morris,80s
+2102,Lance,Armstrong,70s
+2103,Ken,Thompson,40s
+2105,Janeane,Garofalo,60s
+2106,James,Blake,70s
+2107,Emile,Hirsch,80s
+2108,Candice,Accola,80s
+2109,Thomas,A. Steitz,40s
+2110,David,J. Wineland,40s
+2111,Alyson,Michalka,80s
+2112,Larry,Sanger,60s
+2113,Daryl,Sabara,90s
+2114,Daniel,Carleton Gajdusek,20s
+2115,Jeff,Gordon,70s
+2116,Thomas,Samuel Kuhn,20s
+2117,Kevin,Mitnick,60s
+2118,Rick,Santorum,50s
+2120,Robert,B. Laughlin,50s
+2122,Bruno,Mars,80s
+2123,Greyson,Michael Chance,90s
+2124,Bradley,Manning,80s
+2125,Matthew,McConaughey,60s
+2126,Tim,Robbins,50s
+2129,Gary,Coleman,60s
+2131,Heather,Locklear,60s
+2133,Otis,Redding,40s
+2136,Sasha,Cohen,80s
+2137,Richard,Nixon,10s
