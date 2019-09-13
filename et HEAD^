@@ -1,0 +1,54 @@
+[33mcommit 15b2bc2ecc4ed6353a11394d855ba569e1a6208d[m[33m ([m[1;36mHEAD -> [m[1;32mallazbirun[m[33m)[m
+Author: Alla Zbirun <azbir3@gmail.com>
+Date:   Thu Sep 5 21:58:57 2019 -0400
+
+    delete file
+
+[33mcommit ca32a6ca1ac408a535b953448af88806b348e5aa[m
+Author: Alla Zbirun <azbir3@gmail.com>
+Date:   Thu Sep 5 21:58:25 2019 -0400
+
+    stash data
+
+[33mcommit 8f00ddfb5a85384991dc5ca182f0afe6f78d89a6[m[33m ([m[1;31morigin/allazbirun[m[33m)[m
+Author: Alla Zbirun <azbir3@gmail.com>
+Date:   Thu Sep 5 20:48:02 2019 -0400
+
+    update 70sOn file
+
+[33mcommit 7033e71ac7b36f663319552ef274309f0ef3fad4[m
+Merge: 33aac7a a63bcdd
+Author: Alla Zbirun <azbir3@gmail.com>
+Date:   Thu Sep 5 20:39:25 2019 -0400
+
+    Merge branch 'master' into allazbirun
+
+[33mcommit 33aac7a98e69308630dad0c973282df95b6ebf84[m
+Author: Alla Zbirun <azbir3@gmail.com>
+Date:   Thu Sep 5 00:13:07 2019 -0400
+
+    uploading election year file
+
+[33mcommit 03753d1510fc02e68d41052c7c3c3afaa78b485f[m
+Author: Alla Zbirun <azbir3@gmail.com>
+Date:   Wed Sep 4 03:12:57 2019 -0400
+
+    uploadig updated top 10 summary
+
+[33mcommit a2c1406634e2fbe029ba04948c23bac984d5491c[m
+Author: Alla Zbirun <azbir3@gmail.com>
+Date:   Mon Sep 2 15:13:08 2019 -0400
+
+    uploading new file with 10 popular names
+
+[33mcommit 6f7edfd649db91da3b511e16dddcdc98cc8a17ca[m
+Author: Alla Zbirun <azbir3@gmail.com>
+Date:   Mon Sep 2 15:12:08 2019 -0400
+
+    updating previously updated file
+
+[33mcommit 6c1825433878a788954c68f3a585daa376057d3d[m
+Author: Alla Zbirun <azbir3@gmail.com>
+Date:   Thu Aug 29 20:34:19 2019 -0400
+
+    updating for changes
