@@ -14,6 +14,7 @@ Part III -
 1. SSN_data - contains name by state txt files downloaded from SSN website as well as Part 1 and Part 3 data cuts to use as base dataframe.
 2. US_Maps_data - contains files needed to populate US Map in Part II of the project.
 3. Data - contains other supporting source data.
+4. Staging - contains staging files that were not able to be used in production since the goal of trying to map baby names to states was not successful.
 
 
 # Helpful Links
